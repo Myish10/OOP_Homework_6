@@ -51,16 +51,5 @@ public class Order {
         this.price = price;
     }
 
-//    public void inputFromConsole() {
-//        clientName = prompt("Имя клиента: ");
-//        product = prompt("Продукт: ");
-//        qnt = Integer.parseInt(prompt("Количество: "));
-//        price = Integer.parseInt(prompt("Цена: "));
-//    }
-//
-//    private String prompt(String massage) {
-//        System.out.println(massage);
-//        return scanner.nextLine();
-//    }
 
 }
